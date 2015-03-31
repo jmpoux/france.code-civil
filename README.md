@@ -3,7 +3,9 @@ Le Code Civil français, sous Git
 
 "Nul n'est censé ignorer la loi."
 ---------------------------------
-Et pourtant nous autres citoyens (moi y compris) ne connaissons pas les lois qui construisent et gouvernent notre République. Peut être parce que les outils existants sont trop opaques et complexes.
+Bien sûr, pas ignorer dans le sens de : "connaître par coeur", mais dans celui de : "feindre de ne pas connaître". Comme on décide d'ignorer son voisin de pallier.
+
+Nous autres citoyens (moi y compris) n'avons pas accès facilement aux lois qui construisent et gouvernent notre République. Peut être parce que les outils existants sont trop opaques et complexes.
 
 Notre République c'est un *work in progress* (travail en cours). Elle n'est pas fixe, elle bouge, elle évolue, grace a nos parlementaires: ceux qu'on déteste, ceux qu'on ne connait pas, et ceux qu'on aime. Mais aussi et surtout grace a nous tous, les citoyens. Pouvoir suivre son évolution, c'est une façon de nous ré-approprier ce qui fait de nous ce que nous sommes, et ne pas se perdre dans des querelles passagères.
 
